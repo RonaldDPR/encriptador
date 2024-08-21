@@ -58,7 +58,7 @@ function btnDesencriptar(){
         limpiar();
     }else 
     {
-        alert("Ingrese texto a encriptar");
+        alert("Ingrese texto a desencriptar");
         reset();
     }
 }
